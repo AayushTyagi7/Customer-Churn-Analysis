@@ -76,26 +76,6 @@ Analysed churn across 6 dimensions:
 2. Prioritise retention campaigns for customers in their first 12 months
 3. Bundle tech support and online security into base plans to improve perceived value
 4. Focus highest-effort retention on high monthly charge customers — they represent the biggest revenue risk
-
----
-
-## 📂 Repository Structure
-```
-customer-churn-analysis/
-│
-├── churn_analysis.ipynb              # Main Colab notebook
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset (download from Kaggle)
-├── charts/
-│   ├── churn_distribution.png
-│   ├── churn_by_contract.png
-│   ├── churn_by_tenure.png
-│   ├── monthly_charges_churn.png
-│   ├── churn_by_internet.png
-│   ├── correlation_heatmap.png
-│   ├── revenue_impact.png
-│   └── contract_churn_annotated.png
-└── README.md
-```
 ---
 
 ## 🚀 How to Run
