@@ -100,7 +100,7 @@ customer-churn-analysis/
 
 ## 🚀 How to Run
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-2. Open `churn_analysis.ipynb` in [Google Colab](https://colab.research.google.com/)
+2. Open `churn_analysis.ipynb` in [Google Colab](https://colab.research.google.com/drive/1MdhLGg_NFGKCwlISZXHoMsu-9d58MZah?usp=sharing)
 3. Upload the CSV file when prompted
 4. Run all cells in order
 
